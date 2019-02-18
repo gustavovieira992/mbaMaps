@@ -1,0 +1,7 @@
+{
+  "name": "mbaMaps",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
